@@ -1,0 +1,5 @@
+M303 H1 S230 P0.8 ; Run heater tuning
+M116
+M307 H1
+
+; https://duet3d.dozuki.com/Wiki/Tuning_the_heater_temperature_control
